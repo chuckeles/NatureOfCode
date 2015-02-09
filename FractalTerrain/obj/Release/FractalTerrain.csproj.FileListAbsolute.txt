@@ -1,0 +1,18 @@
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\FractalTerrain.exe.config
+D:\Projects\NatureOfCode\FractalTerrain\obj\Release\FractalTerrain.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\Resources\Font\Anonymous Pro.ttf
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\FractalTerrain.exe
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\FractalTerrain.pdb
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\Engine.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\FractalTerrain\bin\Release\Engine.pdb
+D:\Projects\NatureOfCode\FractalTerrain\obj\Release\FractalTerrain.exe
+D:\Projects\NatureOfCode\FractalTerrain\obj\Release\FractalTerrain.pdb

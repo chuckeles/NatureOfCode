@@ -1,0 +1,14 @@
+D:\Projects\NatureOfCode\Motion\bin\Release\Motion.exe.config
+D:\Projects\NatureOfCode\Motion\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\Motion.exe
+D:\Projects\NatureOfCode\Motion\bin\Release\Motion.pdb
+D:\Projects\NatureOfCode\Motion\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Motion\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Motion\obj\Release\Motion.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Motion\obj\Release\Motion.exe
+D:\Projects\NatureOfCode\Motion\obj\Release\Motion.pdb

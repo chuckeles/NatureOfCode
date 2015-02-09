@@ -1,0 +1,13 @@
+D:\Projects\NatureOfCode\Mass\bin\Debug\Mass.exe.config
+D:\Projects\NatureOfCode\Mass\bin\Debug\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\csfml-window-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\libsndfile-1.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\openal32.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\Mass.exe
+D:\Projects\NatureOfCode\Mass\bin\Debug\Mass.pdb
+D:\Projects\NatureOfCode\Mass\bin\Debug\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Debug\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Mass\obj\Debug\Mass.exe
+D:\Projects\NatureOfCode\Mass\obj\Debug\Mass.pdb

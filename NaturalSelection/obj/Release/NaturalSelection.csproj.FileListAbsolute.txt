@@ -1,0 +1,18 @@
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\Resources\Font\Anonymous Pro.ttf
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\NaturalSelection.exe.config
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\NaturalSelection.exe
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\NaturalSelection.pdb
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\Engine.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\NaturalSelection\bin\Release\Engine.pdb
+D:\Projects\NatureOfCode\NaturalSelection\obj\Release\NaturalSelection.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\NaturalSelection\obj\Release\NaturalSelection.exe
+D:\Projects\NatureOfCode\NaturalSelection\obj\Release\NaturalSelection.pdb

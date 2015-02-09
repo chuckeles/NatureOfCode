@@ -1,0 +1,13 @@
+D:\Projects\NatureOfCode\Walker\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\Walker.exe.config
+D:\Projects\NatureOfCode\Walker\bin\Release\Walker.exe
+D:\Projects\NatureOfCode\Walker\bin\Release\Walker.pdb
+D:\Projects\NatureOfCode\Walker\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Walker\obj\Release\Walker.exe
+D:\Projects\NatureOfCode\Walker\obj\Release\Walker.pdb

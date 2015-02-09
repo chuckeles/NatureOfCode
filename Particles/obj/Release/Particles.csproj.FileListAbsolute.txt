@@ -1,0 +1,18 @@
+D:\Projects\NatureOfCode\Particles\bin\Release\Particles.exe.config
+D:\Projects\NatureOfCode\Particles\obj\Release\Particles.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Particles\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\Particles.exe
+D:\Projects\NatureOfCode\Particles\bin\Release\Particles.pdb
+D:\Projects\NatureOfCode\Particles\bin\Release\Engine.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Particles\bin\Release\Engine.pdb
+D:\Projects\NatureOfCode\Particles\obj\Release\Particles.exe
+D:\Projects\NatureOfCode\Particles\obj\Release\Particles.pdb
+D:\Projects\NatureOfCode\Particles\bin\Release\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\Particles\bin\Release\Resources\Font\Anonymous Pro.ttf

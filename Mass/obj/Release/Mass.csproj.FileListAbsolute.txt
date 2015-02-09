@@ -1,0 +1,14 @@
+D:\Projects\NatureOfCode\Mass\bin\Release\Mass.exe.config
+D:\Projects\NatureOfCode\Mass\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\Mass.exe
+D:\Projects\NatureOfCode\Mass\bin\Release\Mass.pdb
+D:\Projects\NatureOfCode\Mass\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Mass\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Mass\obj\Release\Mass.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Mass\obj\Release\Mass.exe
+D:\Projects\NatureOfCode\Mass\obj\Release\Mass.pdb

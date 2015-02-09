@@ -1,0 +1,14 @@
+D:\Projects\NatureOfCode\Walker\bin\Debug\Walker.exe.config
+D:\Projects\NatureOfCode\Walker\obj\Debug\Walker.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Walker\bin\Debug\Walker.exe
+D:\Projects\NatureOfCode\Walker\bin\Debug\Walker.pdb
+D:\Projects\NatureOfCode\Walker\obj\Debug\Walker.exe
+D:\Projects\NatureOfCode\Walker\obj\Debug\Walker.pdb
+D:\Projects\NatureOfCode\Walker\bin\Debug\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\csfml-window-2.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\libsndfile-1.dll
+D:\Projects\NatureOfCode\Walker\bin\Debug\openal32.dll

@@ -1,0 +1,16 @@
+D:\Projects\NatureOfCode\Engine\bin\Debug\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\csfml-window-2.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\libsndfile-1.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\openal32.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\Engine.dll.config
+D:\Projects\NatureOfCode\Engine\bin\Debug\Engine.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\Engine.pdb
+D:\Projects\NatureOfCode\Engine\bin\Debug\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Engine\bin\Debug\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Engine\obj\Debug\Engine.dll
+D:\Projects\NatureOfCode\Engine\obj\Debug\Engine.pdb
+D:\Projects\NatureOfCode\Engine\bin\Debug\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\Engine\bin\Debug\Resources\Font\Anonymous Pro.ttf

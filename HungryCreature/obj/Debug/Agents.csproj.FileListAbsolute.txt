@@ -1,0 +1,18 @@
+D:\Projects\NatureOfCode\Agents\obj\Debug\Agents.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Agents\bin\Debug\Agents.exe.config
+D:\Projects\NatureOfCode\Agents\bin\Debug\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\csfml-window-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\libsndfile-1.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\Agents\bin\Debug\openal32.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\Resources\Font\Anonymous Pro.ttf
+D:\Projects\NatureOfCode\Agents\bin\Debug\Agents.exe
+D:\Projects\NatureOfCode\Agents\bin\Debug\Agents.pdb
+D:\Projects\NatureOfCode\Agents\bin\Debug\Engine.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Debug\Engine.pdb
+D:\Projects\NatureOfCode\Agents\obj\Debug\Agents.exe
+D:\Projects\NatureOfCode\Agents\obj\Debug\Agents.pdb

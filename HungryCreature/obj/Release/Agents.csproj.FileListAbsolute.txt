@@ -1,0 +1,18 @@
+D:\Projects\NatureOfCode\Agents\obj\Release\Agents.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Agents\bin\Release\Agents.exe.config
+D:\Projects\NatureOfCode\Agents\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\Agents\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\Resources\Font\Anonymous Pro.ttf
+D:\Projects\NatureOfCode\Agents\bin\Release\Agents.exe
+D:\Projects\NatureOfCode\Agents\bin\Release\Agents.pdb
+D:\Projects\NatureOfCode\Agents\bin\Release\Engine.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Agents\bin\Release\Engine.pdb
+D:\Projects\NatureOfCode\Agents\obj\Release\Agents.exe
+D:\Projects\NatureOfCode\Agents\obj\Release\Agents.pdb

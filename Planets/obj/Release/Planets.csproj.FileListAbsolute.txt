@@ -1,0 +1,18 @@
+D:\Projects\NatureOfCode\Planets\bin\Release\Planets.exe.config
+D:\Projects\NatureOfCode\Planets\obj\Release\Planets.csprojResolveAssemblyReference.cache
+D:\Projects\NatureOfCode\Planets\bin\Release\csfml-audio-2.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\csfml-graphics-2.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\csfml-window-2.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\libsndfile-1.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\openal32.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\Planets.exe
+D:\Projects\NatureOfCode\Planets\bin\Release\Planets.pdb
+D:\Projects\NatureOfCode\Planets\bin\Release\Engine.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\sfmlnet-graphics-2.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\sfmlnet-window-2.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\Engine.pdb
+D:\Projects\NatureOfCode\Planets\obj\Release\Planets.exe
+D:\Projects\NatureOfCode\Planets\obj\Release\Planets.pdb
+D:\Projects\NatureOfCode\Planets\bin\Release\sfmlnet-audio-2.dll
+D:\Projects\NatureOfCode\Planets\bin\Release\Resources\Font\OFL.txt
+D:\Projects\NatureOfCode\Planets\bin\Release\Resources\Font\Anonymous Pro.ttf
